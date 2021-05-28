@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 21 HD BR" tvg-logo="https://i.imgur.com/Npe4h66.png" group-title="Brazil",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   
-
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E HD BR" tvg-logo="https://picon-13398.kxcdn.com/ae.jpg" group-title="Live: Latin America",A&E HD BR
 http://mag.clientportal.link:80/rSvNI3Ic4u26/bYT61X541/17761
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN BR" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Live: Latin America",AXN BR
