@@ -1,0 +1,112 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  radio rockon[/COLOR]
+http://streaming.radiostreamlive.com/radiorockon_devices
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  Planeta Dance[/COLOR]
+http://stm7.painelvox.com:8214/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  Eurodance[/COLOR]
+http://hdr.asuscomm.com:8000/eurodance_low
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  FM dance[/COLOR]
+http://radiostreamserver.de:80/wunschradio-dance.aac
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  Total dance[/COLOR]
+http://c12.radioboss.fm:8082/autodj
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  Rádio Tropical[/COLOR]
+http://cast.midiaip.com.br:6103/1/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  GRAUNA WEB RáDIO Stream[/COLOR]
+http://192.254.68.106:10064//;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  Radio Clube Do Forro Antigas[/COLOR]
+http://stm6.srvaudio.com.br:9678//;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  Rádio NT Gospel[/COLOR]
+http://stream.ntgospel.com.br:9300/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  CBN CAMPINA GRANDE[/COLOR]
+http://audio.cabobranco.tv.br:8000/cbncg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  101 FM CAMPINA GRANDE[/COLOR]
+http://radioapp.agenciaellis.com.br/Cariri1160
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  ARAPUAN JOÂO PESSOA [/COLOR]
+http://centova6.ciclanohost.com.br:9104/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  CPAD JOÃO PESSOA[/COLOR]
+http://server3.webradios.com.br:9404/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  LIDER 97 FM SOUSA[/COLOR]
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  LIBERDADE FM POMBAL[/COLOR]
+http://centova14.ciclanohost.com.br:8180/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  ESTAÇÃO JC POMBAL[/COLOR]
+http://streaming15.hstbr.net:8224/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  ARAPUAN CAJAZEIRAS[/COLOR]
+http://centova6.ciclanohost.com.br:9346/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  ARAPUAN CAMPINA GRANDE[/COLOR]
+http://centova6.ciclanohost.com.br:9518/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  ARAPUAN PATOS[/COLOR]
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  ESPINHARAS AM PATOS[/COLOR]
+http://stm45.srvstm.com:26924/stream/1/ 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  RADIO TRUE BOSSA NOVA[/COLOR]
+http://6d9a.webradio.upx.net.br:9974/stream?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  RADIO TRUE FESTA[/COLOR]
+http://6d9a.webradio.upx.net.br:9070/stream? 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE LOUNGE[/COLOR]
+http://6d9a.webradio.upx.net.br:9064/stream?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE METAL[/COLOR]
+http://6d9a.webradio.upx.net.br:9898/stream? 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE MÚSICA CLÁSSICA[/COLOR]
+http://6d9a.webradio.upx.net.br:9970/stream?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE NEW ROCK[/COLOR]
+http://6d9a.webradio.upx.net.br:8028/stream? 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE PAGODE[/COLOR]
+http://6d9a.webradio.upx.net.br:9061/stream?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE POP RITS[/COLOR]
+http://6d9a.webradio.upx.net.br:9046/stream?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE POP ROCK[/COLOR]
+http://6d9a.webradio.upx.net.br:8016/stream?
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE TRILHAS SONORAS[/COLOR]
+http://6d9a.webradio.upx.net.br:9896/stream?  
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE BOSSA NOVA[/COLOR]
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  METROPOLETANA FM AO VIVO[/COLOR]
+http://ice.paineldj3.com.br:8006/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE RÁDIO ELDORADO FM[/COLOR]
+http://noasrv.caster.fm:10136/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE RÁDIO FARROUPILHA FM/AM[/COLOR]
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE RÁDIO PRAIA FM[/COLOR]
+http://noasrv.caster.fm:10132/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE RÁDIO PRINCESA FM[/COLOR]
+http://noasrv.caster.fm:10124/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E6IT5y7.png" group-title="radio",[COLOR yellow]  TRUE RÁDIO TRANSAMERICA FM[/COLOR]
+http://transamerica.crossradio.com.br:9114/live.mp3
+
