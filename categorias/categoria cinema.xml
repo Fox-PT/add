@@ -30,7 +30,7 @@
 
 <name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Portugueses[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Cinema%20Portugues.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Cinema%20Portugues.xml</externallink>
 
 <thumbnail>https://i.imgur.com/Dyc6lFF.png</thumbnail>
 
@@ -46,7 +46,7 @@
 
 <name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Brasileiros[/COLOR][/B] [B][COLOR lime]Em construcao[/COLOR][/B]</name>
 
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/cinema%20brasileiros.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/cinema%20brasil.xml</externallink>
 
 <thumbnail>https://i.imgur.com/F1Sxhhs.png</thumbnail>
 
@@ -57,30 +57,11 @@
 </channel>
 
 
-
-
-
-<channel>
-
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Peliculas En Espanol[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/cinema%20espanhol.xml</externallink>
-
-<thumbnail>https://i.imgur.com/CbX6rVe.png</thumbnail>
-
-<fanart>https://i.imgur.com/ZX0Clze.jpg</fanart>
-
-<info>Peliculas En Espanol</info>
-
-</channel>
-
-
-
 <channel>
 
 <name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedias Legendadas[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Comedias%20Legendadas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Comedias%20Legendadas.xml</externallink>
 
 <thumbnail>https://dl-web.meocloud.pt/dlweb/Qk9X-WKbJYZvccgspm-i4g/download/icon.png?public=28ed8b7b-ad36-48b1-b9fd-7e2460eba5db</thumbnail>
 
@@ -96,7 +77,7 @@
 
 <name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedia Portuguesa[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/Categoria%20Comedia%20Portuguesa.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/Categoria%20Comedia%20Portuguesa.xml</externallink>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/comediapt.gif</thumbnail>
 
