@@ -1,0 +1,63 @@
+
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+        <title>Vilhao TV</title>
+        
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!--[if lte IE 8]><script src="http:vilhao.ml"></script><![endif]-->
+        <link rel="stylesheet" href="http:vilhao.ml" />
+        <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+        <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    </head>
+
+</html>
+
+<channels>
+
+    
+<channel>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Agenda Desportiva[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<externallink>https://floyd6969.github.io/live.xml</externallink>
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto.gif</thumbnail>
+<fanart>https://i.imgur.com/Vfl4LC2.jpg</fanart>
+<info>Desporto servidor 1</info>
+</channel>    
+
+<channel>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto servidor 1[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/desporto%20servidor%201.xml</externallink>
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto.gif</thumbnail>
+<fanart>https://i.imgur.com/Vfl4LC2.jpg</fanart>
+<info>Desporto servidor 1</info>
+</channel>
+
+<channel>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto Espanha[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Desporto%20Espanha.xml</externallink>
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto.gif</thumbnail>
+<fanart>https://i.imgur.com/OWEZPls.jpg</fanart>
+<info>Desporto Espanha</info>
+</channel>
+
+<channel>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto UK[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/desporto%20uk.xml</externallink>
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto.gif</thumbnail>
+<fanart>https://i.imgur.com/jm1I3zd.jpg</fanart>
+<info>Desporto UK</info>
+</channel>  
+
+<channel>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Rodri Fight Sports[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Rodri%20sports.xml</externallink>
+<thumbnail>https://i.imgur.com/oV5pkbk.png</thumbnail>
+<fanart>https://i.imgur.com/s02kRcW.jpg</fanart>
+<info>Desporto servidor 1</info>
+</channel>  
+
+</channels>
