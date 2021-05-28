@@ -1,0 +1,510 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tve_canal_24horas.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   24 HORAS
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320010
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA 1
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320009
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA 1
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320008
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA 1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320007
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA 2
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320006
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3" tvg-logo="https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ANTENA 3
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320005
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://findlogovector.com/wp-content/uploads/2018/12/antena-3-tv-logo-vector.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ANTENA 3 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320004
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA CUATRO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/Cuatro_%28logo%29.svg/1280px-Cuatro_%28logo%29.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA CUATRO
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320003
+#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cuatro_es.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CUATRO FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320002
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TELECINCO
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320001
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/telecinco.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TELECINCO FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/320000
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA SEXTA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319999
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/la_sexta.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA SEXTA FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319998
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_Aragon_TV.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ARAGON TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319997
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR" tvg-logo="https://fr.thematv.ca/medias/channels/canal-sur/canal-sur.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CANAL SUR
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319996
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR A" tvg-logo="https://d2jljza7x0a5yy.cloudfront.net/media/k2/items/cache/fd58f8e455476f3edf50215429db4689_XL.jpg?t=1464867121" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CANAL SUR A
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319995
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/antena_nova.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NOVA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319994
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1200px-13_TV.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TV 13
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319993
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/andalucia_tv.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ANDALUCIA TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319992
+#EXTINF:-1 tvg-id="" tvg-name="ES: 13 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/13_TV.svg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   13 TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319991
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/odisea.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ODISEA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319990
+#EXTINF:-1 tvg-id="" tvg-name="ES: INTERECONOMIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/intereconomia_tv.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   INTERECONOMIA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319989
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7RM FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/7RM_2015.png/revision/latest?cb=20150602113059" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   7RM FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319988
+#EXTINF:-1 tvg-id="" tvg-name="---------- Movistar Cine ----------" tvg-logo="http://pluspng.com/img-png/star-movies-png--800.png" group-title="SPAGNA",---------- Movistar Cine ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319987
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR 0#" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR 0#
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319986
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR 0# FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR 0# FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319985
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR ACCION
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319984
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR ACCION FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319983
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR ACCION FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319982
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR ESTRENOS
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319981
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1280px-Movistar_Estrenos.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR ESTRENOS FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319980
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/2000px-Movistar_Estrenos.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR ESTRENOS FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319979
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR DRAMA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319978
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR DRAMA FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319977
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES" tvg-logo="https://seriepolis.com/wp-content/uploads/2018/02/movistar-series-1.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR SERIES
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319976
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="https://tv.orange.es/UpImages/2420/x_logo_landing_f9234bf610d902ba77dbd308b.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR SERIES FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319975
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIESMANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/2000px-Movistar_Seriesman%C3%ADa.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR SERIESMANIA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319974
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1529px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR CINE
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319973
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINE Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR CINE Ñ
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319972
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR COMEDIA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319971
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/160x130/movistar-comedia.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR COMEDIA FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319970
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CineDoc&Roll" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR CineDoc&Roll
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319969
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINEDOC&ROLL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR CINEDOC&ROLL
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319968
+#EXTINF:-1 tvg-id="" tvg-name="ES: A3 SERIE HD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   A3 SERIE HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319967
+#EXTINF:-1 tvg-id="" tvg-name="---------- ENTRETENIMIENTO ESPANA ----------" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" group-title="SPAGNA",---------- ENTRETENIMIENTO ESPANA ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319966
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TNT
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319965
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TNT FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319964
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   AXN HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319963
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   AXN FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319962
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_white_us.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   AXN WHITE
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319961
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_white_us.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   AXN WHITE FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319960
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="http://1.bp.blogspot.com/_mBmoS0RssN0/TBmunz2u3fI/AAAAAAAABdo/HNGajKxj1Z0/s400/fox_logo.gif" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   FOX
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319959
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX" tvg-logo="https://www.freepnglogos.com/uploads/fox-logotype-black-text-png-0.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   FOX
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319958
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsf84Hpf9Z8ivp2f-cQ8Fe96VAKeXaem2gLfZGMMnJQGIUaFSo&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   FOX FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319957
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/fox-life_0.png?itok=BYCf-fZz" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   FOX LIFE
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319956
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE FHD" tvg-logo="https://4.bp.blogspot.com/-3L7r1QbuhLk/V6r5OXMFGzI/AAAAAAABGLQ/lGj5aUpJcr0aeAQEO25Un0xZ_d2BQAGCgCLcB/s1600/FOX%2BCrime%2Bchanging%2Bto%2BFOX%2BLife%2BDStv%2BStarSat.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   FOX LIFE FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319955
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   SYFY
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319954
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Syfy_HD_Logo_2017.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   SYFY FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319953
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/calle13_universal_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CALLE 13
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319952
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/calle13_universal_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CALLE 13 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319951
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/COSMO_Logo_2017_alternative.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   COSMO HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319950
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/621px-Cosmo_TV_logo.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   COSMO FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319949
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TCM
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319948
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TCM FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319947
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/617px-Paramount_Channel.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   PARAMOUNT CHANNEL
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319946
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   SUNDANCE
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319945
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   HOLLYWOOD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319944
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   HOLLYWOOD FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319943
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL" tvg-logo="http://comedycentral.mtvnimages.com/press_images/cc-gen.jpg?width=222&height=125&crop=true" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   COMEDY CENTRAL
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319942
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CLAN
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319941
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN TVE HD" tvg-logo="http://img2.rtve.es/v/3866700?w=1600&preview=1484570222489.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CLAN TVE HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319940
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   AMC
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319939
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/amc_us_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   AMC FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319938
+#EXTINF:-1 tvg-id="" tvg-name="ES: RITMOSON" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   RITMOSON
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319937
+#EXTINF:-1 tvg-id="" tvg-name="ES: TYC SPORTS HD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TYC SPORTS HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319936
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETC TV ECUADOR" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ETC TV ECUADOR
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319935
+#EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CASTILLA LA MANCHA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319934
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ODISEA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319933
+#EXTINF:-1 tvg-id="" tvg-name="ES: TDP" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TDP
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319932
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELENOVELAS" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TELENOVELAS
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319931
+#EXTINF:-1 tvg-id="" tvg-name="---------- CULTURA ESPANA ----------" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" group-title="SPAGNA",---------- CULTURA ESPANA ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319930
+#EXTINF:-1 tvg-id="" tvg-name="ES: Viajar" tvg-logo="http://getlogo.net/wp-content/uploads/2019/08/canal-viajar-logo-vector.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Viajar
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319929
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR FULLHD" tvg-logo="http://getlogo.net/wp-content/uploads/2019/08/canal-viajar-logo-vector.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   VIAJAR FULLHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319928
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/National_Geographic_Logo_2016.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NAT GEO
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319927
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nat_geo_wild_fr_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NAT GEO FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319926
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NAT GEO WILD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319925
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="http://www.topstb.info/logo/FRANCE/NGCWILDHD.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NAT GEO WILD FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319924
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CAZA Y PESCA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319923
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA FULLHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest?cb=20161008171111" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CAZA Y PESCA FULLHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319922
+#EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_iberalia.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Iberalia
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319921
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Historia_Logo_2015.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   HISTORIA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319920
+#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREMADURA TV" tvg-logo="https://news-cdn.softpedia.com/images/news2/Spain-s-Extremadura-Moves-40-000-PCs-to-Linux-2.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   EXTREMADURA TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319919
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DKISS
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319918
+#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DMAX
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319917
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL DECASA HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CANAL DECASA HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319916
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DISCOVERY CHANNEL
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319915
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Neox_2011_2.svg/1280px-Neox_2011_2.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NEOX
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319914
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/FdF_logo.png/revision/latest?cb=20110703083821" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   FDF
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319913
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Divinity_2012.png/revision/latest?cb=20180117171741" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DIVINITY
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319912
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   ENERGY
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319911
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_cocina.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   CANAL COCINA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319910
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLAZE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/the_blaze_tv_us.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   BLAZE
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319909
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD FHD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_logo_500_-1_758c.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   BE MAD FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319908
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MEGA_logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MEGA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319907
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/621px-Cosmo_TV_logo.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   COSMO
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319906
+#EXTINF:-1 tvg-id="" tvg-name="---------- NINOS ESPANA ----------" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" group-title="SPAGNA",---------- NINOS ESPANA ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319905
+#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baby_tv_eu.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   BABY TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319904
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   BOING
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319903
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON FHD" tvg-logo="https://9story.com/wp-content/uploads/2018/10/nickelodeon-logo-png-transparent.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NICKELODEON FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319902
+#EXTINF:-1 tvg-id="" tvg-name="ES: PANDA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_panda_es.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   PANDA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319901
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nick_jr_au.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NICK JR
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319900
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_us.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NICKELODEON
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319899
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY+" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DISNEY+
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319898
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DISNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR DISNEY
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319897
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DISNEY JUNIOR
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319896
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="http://assets.stickpng.com/thumbs/58428d79a6515b1e0ad75ab2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DISNEY XD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319895
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2000px-2014_Disney_Channel_logo.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DISNEY CHANNEL
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319894
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2000px-2014_Disney_Channel_logo.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DISNEY CHANNEL FULLHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319893
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON FULLHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_us.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   NICKELODEON FULLHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319892
+#EXTINF:-1 tvg-id="" tvg-name="---------- MUSICA ESPANA ----------" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" group-title="SPAGNA",---------- MUSICA ESPANA ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319891
+#EXTINF:-1 tvg-id="" tvg-name="ES: classica" tvg-logo="http://banquet-celeste.fr/wp-content/uploads/2017/06/classica-logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   classica
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319890
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV" tvg-logo="https://1000logos.net/wp-content/uploads/2018/02/symbols-Movistar.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MTV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319889
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MEZZO LIVE FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319888
+#EXTINF:-1 tvg-id="" tvg-name="ES: HIT TV" tvg-logo="https://www.pngkit.com/png/detail/72-723744_hit-tv.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   HIT TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319887
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MEZZO LIVE FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319886
+#EXTINF:-1 tvg-id="" tvg-name="---------- DEPORTES ESPANA ----------" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/300px-Spain_flag_icon.svg.png" group-title="SPAGNA",---------- DEPORTES ESPANA ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319885
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Teledeporte_logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   TELEDEPORTE
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319884
+#EXTINF:-1 tvg-id="" tvg-name="ES: R. MADRID TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLzTXN2NuNj3AeVBdUWiwjwU5h4PdfsUDD64TKv_MjXHHmXeiX&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   R. MADRID TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319883
+#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/barca_tv.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   BARCA TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319882
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV" tvg-logo="https://mpng.pngfly.com/20180605/ucj/kisspng-santiago-bernabu-stadium-real-madrid-c-f-la-lig-real-madrid-5b1695dda4f7e0.7335341615282068136757.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   REAL MADRID TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319881
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR VAMOS" tvg-logo="https://www.adslzone.net/app/uploads/2018/08/vamos.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR VAMOS
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319880
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR VAMOS FHD" tvg-logo="https://www.adslzone.net/app/uploads/2018/08/vamos.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR VAMOS FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319879
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR TOROS TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319878
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR TOROS FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319877
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR F1" tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/3c/1355324.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR F1
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319876
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR F1 HD" tvg-logo="https://static.motor.es/fotos-noticias/2018/01/min652x435/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR F1 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319875
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTE HD" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR DEPORTE HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319874
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES" tvg-logo="https://i1.wp.com/www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png?resize=609%2C235" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR DEPORTES
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319873
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwPKvPJBWHQt81jQxmzDRi_VbMxyr7n87w8H9oB5fuMv_w1vrT&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR GOLF
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319872
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   GOL TV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319871
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   EUROSPORT 1
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319870
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   EUROSPORT 1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319869
+#EXTINF:-1 tvg-id="" tvg-name="ES: Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Eurosport 2
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319868
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. LaLiga HD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. LaLiga HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319867
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LALIGA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M.LALIGA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319866
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA" tvg-logo="" group-title="SPAGNA",M.LALIGA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319865
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA TV BAR HD" tvg-logo="" group-title="SPAGNA",M.LALIGA TV BAR HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319864
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 1 FHD" tvg-logo="" group-title="SPAGNA",M.LALIGA 1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319863
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA" tvg-logo="" group-title="SPAGNA",M.LALIGA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319862
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA FHD" tvg-logo="" group-title="SPAGNA",M.LALIGA FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319861
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 1 HD" tvg-logo="" group-title="SPAGNA",M.LALIGA 1 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319860
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 2 SD" tvg-logo="" group-title="SPAGNA",M.LALIGA 2 SD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319859
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 3 HD" tvg-logo="" group-title="SPAGNA",M.LALIGA 3 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319858
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 4 HD" tvg-logo="" group-title="SPAGNA",M.LALIGA 4 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319857
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 8 HD" tvg-logo="" group-title="SPAGNA",M.LALIGA 8 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319856
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 5 HD" tvg-logo="" group-title="SPAGNA",M.LALIGA 5 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319855
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 6 HD" tvg-logo="" group-title="SPAGNA",M.LALIGA 6 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319854
+#EXTINF:-1 tvg-id="" tvg-name="M.LALIGA 7 HD" tvg-logo="" group-title="SPAGNA",M.LALIGA 7 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319853
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES HD" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319852
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 1" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 1
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319851
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 2" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 2
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319850
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 2 HD" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 2 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319849
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 4" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 4
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319848
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 5" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 5
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319847
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 6" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 6
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319846
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 7" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 7
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319845
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA DE CAMPEONES 8" tvg-logo="" group-title="SPAGNA",M.LIGA DE CAMPEONES 8
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319844
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR LALIGA HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319843
+#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE" tvg-logo="http://meteoalcorcon.es/1_0_1_76A3_41E_1_C00000_0_0_0.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MULTIDEPORTE
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319842
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTES1
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319841
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTES2
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319840
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES3" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTES3
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319839
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES4" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTES4
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319838
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES5" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTES5
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319837
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES6" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTES6
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319836
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES7" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTES7
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319835
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTESHD" tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/logo-movistar-png-2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. DEPORTESHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319834
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR 1" tvg-logo="https://www.gamestop.es/wp-content/uploads/2019/04/La-Liga-TV.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LALIGATV BAR 1
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319833
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4  Espa" tvg-logo="https://sportguide.live/images/stations/a1549.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 4  Espa
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319832
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga BAR FHD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LaLiga BAR FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319831
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA CAMPEONES 2 HD" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/54/M_Liga-de-Campeones_2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA CAMPEONES 2 HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319830
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA CAMPEONES
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319829
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1 Espa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 1 Espa
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319828
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319827
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2  Espa" tvg-logo="https://sport-tv-guide.live/images/stations/a1460.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 2  Espa
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319826
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 3  Espa
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319825
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5  Espa" tvg-logo="https://sportguide.live/images/stations/a1550.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 5  Espa
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319824
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 6  Espa
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319823
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 7  Espa
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319822
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 ESPA" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES 8 ESPA
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319821
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA CAMPEONES
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319820
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGATV BAR" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LA LIGATV BAR
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319819
+#EXTINF:-1 tvg-id="" tvg-name="ES: M.LALIGA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M.LALIGA FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319818
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA CAMPEONES 2 FHD" tvg-logo="http://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/54/M_Liga-de-Campeones_2.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA CAMPEONES 2 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319817
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LIGA DE CAMPEONES FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319816
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGATV BAR FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UpaZNFGQt-WGwUznSDrP0wRKIm9V685HfouuTtJNOXlNFR20&s" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   LALIGATV BAR FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319815
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/2025px-Movistar_Deportes_1.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR DEPORTES 1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319814
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR F1 FHD" tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR F1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319813
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR GOLF FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319812
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR VAMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1200px-Vamos.svg.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   MOVISTAR VAMOS FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319811
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters FHD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Footters FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319810
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters HD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Footters HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319809
+#EXTINF:-1 tvg-id="" tvg-name="---------- DAZN ESPANA ----------" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" group-title="SPAGNA",---------- DAZN ESPANA ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319808
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana FHD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Dazn 1 Espana FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319807
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana HD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Dazn 1 Espana HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319806
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana FHD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Dazn 2 Espana FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319805
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana HD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   Dazn 2 Espana HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319804
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 FHD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. Dazn 1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319803
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 FHD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. Dazn 2 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319802
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 SD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. Dazn 1 SD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319801
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 SD" tvg-logo="" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   M. Dazn 2 SD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319800
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319799
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/DAZN_Logo.png" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319798
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MOTO GP FHD" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN MOTO GP FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319797
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MOTO GP HD" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN MOTO GP HD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319796
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 1 FHD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319795
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 2 FHD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319794
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 3 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 3 FHD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319793
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 4 FHD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319792
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 5 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 5 FHD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319791
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 5 HD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 5 HD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319790
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 6 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 6 FHD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319789
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 7 FHD PPV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/decasa.jpg" group-title="SPAGNA",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   DAZN 7 FHD PPV
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319788
+#EXTINF:-1 tvg-id="" tvg-name="---------- ALQUILER ESPANA ----------" tvg-logo="https://b1.pngbarn.com/png/850/727/world-flags-spain-icon-png-clip-art-thumbnail.png" group-title="SPAGNA",---------- ALQUILER ESPANA ----------
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319787
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 1 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 1 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319786
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 2 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 2 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319785
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 3 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 3 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319784
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 4 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 4 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319783
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 5 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 5 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319782
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 6 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 6 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319781
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 7 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 7 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319780
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 8 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 8 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319779
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 9 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 9 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319778
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 10 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 10 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319777
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 11 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 11 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319776
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 12 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 12 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319775
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 13 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 13 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319774
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 14 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 14 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319773
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 15 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 15 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319772
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 16 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 16 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319771
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 17 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 17 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319770
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 18 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 18 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319769
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 19 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 19 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319768
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 20 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 20 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319767
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 21 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 21 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319766
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 22 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 22 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319765
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 23 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 23 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319764
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 24 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 24 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319763
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 25 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 25 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319762
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 26 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 26 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319761
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 29 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 29 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319760
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 27 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 27 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319759
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 28 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 28 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319758
+#EXTINF:-1 tvg-id="" tvg-name="M.ALQUILER 30 FHD" tvg-logo="" group-title="SPAGNA",M.ALQUILER 30 FHD
+http://vip-television.hopto.me:8000/benhalimao/wCatjxbM/319757

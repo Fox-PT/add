@@ -1,0 +1,104 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR lime]Pode demorar um pouco abrir[/COLOR]
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  FORMULA 1
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  MOTOGP
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/31.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  LIGA CAMPEONES
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  LA LIGA TV HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  DEPORTES HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  EUROSPORT HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  EUROSPORT 2
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  GOLTV
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  GOLF HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  BEIN SPORT HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  BEIN LA LIGA HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TOROS HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts|user-agent=cp_9191248H
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  ESTRENOS HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  ACCION HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  DRAMA
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  DMAX
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  A&E
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  HOLLYWOOD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  AMC
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  FOX HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/20.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  AXN HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  AXN WHITE HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  SYFY HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  SERIES HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  COMEDY CENTRAL
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts|user-agent=cp_9191248H
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  CUATRO
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/53.ts|User-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TELECINCO
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/52.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  Antena 3
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  CRIME&INVESTIGATION
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts|user-agent=cp_9191248H
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  NATIONAL GEOGRAPHIC HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/26.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  NAT GEO WILD HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  HISTORIA HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  VIAJAR HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TCM HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  DOC&ROLL HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  COMEDIA HD
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  COCINA
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  CAZA Y PESCA
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  CALLE 13
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  MTV
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts|user-agent=cp_9191248H
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TNT
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TAQ 6
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TAQ 5
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/9.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TAQ 4
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/10.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TAQ 3
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/11.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TAQ 2
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/12.ts|user-agent=cp_9191248H
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="https://i.imgur.com/fY751Iq.png", [COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]  TAQ 1
+http://ns3173312.ip-51-210-33.eu:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts|user-agent=cp_9191248H

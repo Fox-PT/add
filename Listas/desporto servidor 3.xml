@@ -1,0 +1,162 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SportTV Plus" tvg-name="SportTV +" tvg-logo="http://195.154.221.171/picons/sporttvpluspt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV +[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/3613
+#EXTINF:-1 tvg-id="SportTV Plus" tvg-name="SportTV + FHD" tvg-logo="http://195.154.221.171/picons/sporttvplushd.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV + FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/13248
+#EXTINF:-1 tvg-id="SportTV 1" tvg-name="SportTV 1" tvg-logo="http://195.154.221.171/picons/sporttv1pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 1[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2678
+#EXTINF:-1 tvg-id="SportTV 1" tvg-name="SportTV 1 SD" tvg-logo="http://195.154.221.171/picons/sporttv1pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 1 SD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/7426
+#EXTINF:-1 tvg-id="SportTV 1" tvg-name="SportTV 1 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/sporttv1pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 1 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75448
+#EXTINF:-1 tvg-id="SportTV 1" tvg-name="SportTV 1 ( Telemovel )" tvg-logo="http://195.154.221.171/picons/sporttv1pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 1 ( Telemovel )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75461
+#EXTINF:-1 tvg-id="SportTV 1" tvg-name="SportTV 1 HD" tvg-logo="http://195.154.221.171/picons/sporttv1hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 1 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/7425
+#EXTINF:-1 tvg-id="SportTV 1" tvg-name="SportTV 1 FHD" tvg-logo="http://195.154.221.171/picons/sporttv1hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 1 FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/3618
+#EXTINF:-1 tvg-id="SportTV 2" tvg-name="SportTV 2" tvg-logo="http://195.154.221.171/picons/sporttv2pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 2[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2677
+#EXTINF:-1 tvg-id="SportTV 2" tvg-name="SportTV 2 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/sporttv2hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 2 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75449
+#EXTINF:-1 tvg-id="SportTV 2" tvg-name="SportTV 2 ( Telemovel )" tvg-logo="http://195.154.221.171/picons/sporttv2hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 2 ( Telemovel )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75462
+#EXTINF:-1 tvg-id="SportTV 2" tvg-name="SportTV 2 HD" tvg-logo="http://195.154.221.171/picons/sporttv2hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 2 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/78312
+#EXTINF:-1 tvg-id="SportTV 2" tvg-name="SportTV 2 FHD" tvg-logo="http://195.154.221.171/picons/sporttv2hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 2 FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/3617
+#EXTINF:-1 tvg-id="SportTV 3" tvg-name="SportTV 3" tvg-logo="http://195.154.221.171/picons/sporttv3pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 3[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2676
+#EXTINF:-1 tvg-id="SportTV 3" tvg-name="SportTV 3 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/sporttv3hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 3 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75450
+#EXTINF:-1 tvg-id="SportTV 3" tvg-name="SportTV 3 ( Telemovel )" tvg-logo="http://195.154.221.171/picons/sporttv3hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 3 ( Telemovel )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75463
+#EXTINF:-1 tvg-id="SportTV 3" tvg-name="SportTV 3 HD" tvg-logo="http://195.154.221.171/picons/sporttv3hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 3 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/78313
+#EXTINF:-1 tvg-id="SportTV 3" tvg-name="SportTV 3 FHD" tvg-logo="http://195.154.221.171/picons/sporttv3hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 3 FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/3616
+#EXTINF:-1 tvg-id="SportTV 4" tvg-name="SportTV 4" tvg-logo="http://195.154.221.171/picons/sporttv4pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 4[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2675
+#EXTINF:-1 tvg-id="SportTV 4" tvg-name="SportTV 4 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/sporttv4hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 4 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75451
+#EXTINF:-1 tvg-id="SportTV 4" tvg-name="SportTV 4 ( Telemovel )" tvg-logo="http://195.154.221.171/picons/sporttv4hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 4 ( Telemovel )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75464
+#EXTINF:-1 tvg-id="SportTV 4" tvg-name="SportTV 4 HD" tvg-logo="http://195.154.221.171/picons/sporttv4pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 4 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/78314
+#EXTINF:-1 tvg-id="SportTV 4" tvg-name="SportTV 4 FHD" tvg-logo="http://195.154.221.171/picons/sporttv4hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 4 FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/3615
+#EXTINF:-1 tvg-id="SportTV 5" tvg-name="SportTV 5" tvg-logo="http://195.154.221.171/picons/sporttv5pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 5[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2674
+#EXTINF:-1 tvg-id="SportTV 5" tvg-name="SportTV 5 ( Telemovel )" tvg-logo="http://195.154.221.171/picons/sporttv5hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 5 ( Telemovel )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75465
+#EXTINF:-1 tvg-id="SportTV 5" tvg-name="SportTV 5 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/sporttv5hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 5 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75452
+#EXTINF:-1 tvg-id="SportTV 5" tvg-name="SportTV 5 HD" tvg-logo="http://195.154.221.171/picons/sporttv5hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 5 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/48359
+#EXTINF:-1 tvg-id="SportTV 5" tvg-name="SportTV 5 FHD" tvg-logo="http://195.154.221.171/picons/sporttv5hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV 5 FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/3614
+#EXTINF:-1 tvg-id="SportTV NBA" tvg-name="SportTV NBA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/nba-tv-pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV NBA[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/78315
+#EXTINF:-1 tvg-id="SportTV NBA" tvg-name="SportTV NBA HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/nba-tv-pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV NBA HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/62545
+#EXTINF:-1 tvg-id="SportTV NBA" tvg-name="SportTV NBA FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/nba-tv-pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]SportTV NBA FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/62546
+#EXTINF:-1 tvg-id="BTV 1" tvg-name="BTV 1" tvg-logo="http://195.154.221.171/picons/btv1.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]BTV 1[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/13247
+#EXTINF:-1 tvg-id="BTV 1 HD" tvg-name="BTV 1 HD" tvg-logo="http://195.154.221.171/picons/btv1pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]BTV 1 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2767
+#EXTINF:-1 tvg-id="BTV 1" tvg-name="BTV 1 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/btv1.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]BTV 1 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75447
+#EXTINF:-1 tvg-id="BTV 1" tvg-name="BTV 1 ( Telemovel )" tvg-logo="http://195.154.221.171/picons/btv1.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]BTV 1 ( Telemovel )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75460
+#EXTINF:-1 tvg-id="BTV 1 HD" tvg-name="BTV 1 FHD" tvg-logo="http://195.154.221.171/picons/btv1hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]BTV 1 FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2766
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 SD VIP" tvg-logo="http://195.154.221.171/picons/elevensports1.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 1 SD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/80223
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/elevensports1.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 1 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75441
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD VIP" tvg-logo="http://195.154.221.171/picons/elevensports1.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 1 HD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22714
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports1.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 1 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22713
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 SD VIP" tvg-logo="http://195.154.221.171/picons/elevensports2.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 2 SD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/80224
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/elevensports2.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 2 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75442
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 HD VIP" tvg-logo="http://195.154.221.171/picons/elevensports2.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 2 HD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22716
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports2.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 2 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22715
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports2.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 2 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/16065
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/elevensports3.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 3 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75443
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD VIP" tvg-logo="http://195.154.221.171/picons/elevensports3.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 3 HD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22718
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports3.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 3 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22717
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports3.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 3 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/16064
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/elevensports4.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 4 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75444
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD VIP" tvg-logo="http://195.154.221.171/picons/elevensports4.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 4 HD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22720
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports4.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 4 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22719
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports4.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 4 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/16063
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="Eleven Sports 5 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/elevensports5.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 5 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75445
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="Eleven Sports 5 HD VIP" tvg-logo="http://195.154.221.171/picons/elevensports5.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 5 HD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22722
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="Eleven Sports 5 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports5.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 5 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22721
+#EXTINF:-1 tvg-id="Eleven Sports 5" tvg-name="Eleven Sports 5 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports5.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 5 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/16062
+#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="Eleven Sports 6 ( Internet Baixa  )" tvg-logo="http://195.154.221.171/picons/elevensports6.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 6 ( Internet Baixa  )[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/75446
+#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="Eleven Sports 6 HD VIP" tvg-logo="http://195.154.221.171/picons/elevensports6.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 6 HD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22724
+#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="Eleven Sports 6 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports6.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 6 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/22723
+#EXTINF:-1 tvg-id="Eleven Sports 6" tvg-name="Eleven Sports 6 FHD VIP" tvg-logo="http://195.154.221.171/picons/elevensports6.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eleven Sports 6 FHD VIP[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/16061
+#EXTINF:-1 tvg-id="Canal 11 HD" tvg-name="Canal 11" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Canal 11[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/73313
+#EXTINF:-1 tvg-id="Canal 11 HD" tvg-name="Canal 11 HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Canal 11 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/73315
+#EXTINF:-1 tvg-id="Canal 11 HD" tvg-name="Canal 11 FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/portugal/canal11-pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Canal 11 FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/73314
+#EXTINF:-1 tvg-id="Sporting TV" tvg-name="Sporting TV" tvg-logo="http://195.154.221.171/picons/sportingtvpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Sporting TV[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2694
+#EXTINF:-1 tvg-id="Sporting TV" tvg-name="Sporting TV FHD" tvg-logo="http://195.154.221.171/picons/sportingtvhdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Sporting TV FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2695
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://195.154.221.171/picons/abolatvpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]A Bola TV[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2780
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV HD" tvg-logo="http://195.154.221.171/picons/abolatvpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]A Bola TV HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/78317
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV FHD" tvg-logo="http://195.154.221.171/picons/abolatvpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]A Bola TV FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/78316
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="http://195.154.221.171/picons/realmadridtvpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Real Madrid TV[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2715
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://195.154.221.171/picons/eurosport1pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eurosport 1[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2753
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1 HD" tvg-logo="http://195.154.221.171/picons/eurosport1hdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eurosport 1 HD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2752
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://195.154.221.171/picons/eurosport2pt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Eurosport 2[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2751
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="http://195.154.221.171/picons/pfcpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]PFC[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2717
+#EXTINF:-1 tvg-id="MotorVision HD" tvg-name="Motorvision TV" tvg-logo="http://195.154.221.171/picons/motorvisiontvpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Motorvision TV[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2727
+#EXTINF:-1 tvg-id="Kombat Sport" tvg-name="Kombat Sport" tvg-logo="http://195.154.221.171/picons/kombatsportpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Kombat Sport[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2731
+#EXTINF:-1 tvg-id="Fight Channel HD" tvg-name="Fight Network FHD" tvg-logo="http://195.154.221.171/picons/fightnetworkpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Fight Network FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2749
+#EXTINF:-1 tvg-id="Fuel TV" tvg-name="Fuel TV" tvg-logo="http://195.154.221.171/picons/fueltvpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Fuel TV[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2738
+#EXTINF:-1 tvg-id="Fuel TV" tvg-name="Fuel TV FHD" tvg-logo="http://195.154.221.171/picons/fueltvhdpt.png" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]Fuel TV FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/2747
+#EXTINF:-1 tvg-id="" tvg-name="CAMPO PEQUENO TV FHD" tvg-logo="" group-title="Portugal",[COLOR blue]V[/COLOR][COLOR yellow]i[/COLOR][COLOR blue]l[/COLOR][COLOR yellow]h[/COLOR][COLOR blue]a[/COLOR][COLOR yellow]o[/COLOR]   [COLOR blue]CAMPO PEQUENO TV FHD[/COLOR]
+http://restream.geniptv.com:8080/fadel_20021_new/cew3df23wZzxcZ/91017
