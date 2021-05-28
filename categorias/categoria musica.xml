@@ -1,93 +1,148 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>Vilhao</layoutype>
-
-<channels>
-    
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]World Music Channels[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/world%20music.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/concertosinternacionais.gif</thumbnail>
-<fanart>https://i.imgur.com/tYYlK9W.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Karaoke[/COLOR][/B] [B][COLOR lime]On[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Karaoke%20do%20Vilhao.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/karaoke.gif</thumbnail>
-<fanart>https://i.imgur.com/SUUEQtF.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Concertos Portugueses[/COLOR][/B] [B][COLOR lime]On[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/concertos%20Portugueses.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/musica portuguesa.gif</thumbnail>
-<fanart>https://i.imgur.com/YE5TTEI.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Concertos Internacionais[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/fonte%20do%20addon%20listas/concertos%20internacionais.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/concertosinternacionais.gif</thumbnail>
-<fanart>https://i.imgur.com/tYYlK9W.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Musica do Brasil[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/brasil%20musica.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/musicabrasil.gif</thumbnail>
-<fanart>https://i.imgur.com/xAy9DXp.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Radios Mix[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/radios.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/radio.gif</thumbnail>
-<fanart>https://i.imgur.com/H0D5ilE.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Radios de Espanha[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/radios%20espanha.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/radio.gif</thumbnail>
-<fanart>https://i.imgur.com/H0D5ilE.jpg</fanart>
-<info></info>
-</channel>
-
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Radios de Italia[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink></externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/radio.gif</thumbnail>
-<fanart>https://i.imgur.com/H0D5ilE.jpg</fanart>
-<info></info>
-</channel>
-
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Head Kandi Albuns[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Hed%20Kandi.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/headkahdi1.gif</thumbnail>
-<fanart>https://i.imgur.com/HfMzO6r.jpg</fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLORyellow]Best Dj Parties[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Best%20Dj%20Parties.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/dj.gif</thumbnail>
-<fanart>https://i.imgur.com/FDUyTLC.jpg</fanart>
-<info></info>
-</channel>
-
-</channels>
-
-
-
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>Vilhao</layoutype>
+
+
+
+<channels>
+
+    
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]World Music Channels[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/world%20music.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/concertosinternacionais.gif</thumbnail>
+
+<fanart>https://i.imgur.com/tYYlK9W.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Karaoke[/COLOR][/B] [B][COLOR lime]On[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Karaoke%20do%20Vilhao.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/karaoke.gif</thumbnail>
+
+<fanart>https://i.imgur.com/SUUEQtF.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Concertos Portugueses[/COLOR][/B] [B][COLOR lime]On[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/concertos%20Portugueses.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/musica portuguesa.gif</thumbnail>
+
+<fanart>https://i.imgur.com/YE5TTEI.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Musica do Brasil[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/brasil%20musica.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/musicabrasil.gif</thumbnail>
+
+<fanart>https://i.imgur.com/xAy9DXp.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Radios Mix[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/radios.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/radio.gif</thumbnail>
+
+<fanart>https://i.imgur.com/H0D5ilE.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Radios de Espanha[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/radios%20espanha.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/radio.gif</thumbnail>
+
+<fanart>https://i.imgur.com/H0D5ilE.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Head Kandi Albuns[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Hed%20Kandi.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/headkahdi1.gif</thumbnail>
+
+<fanart>https://i.imgur.com/HfMzO6r.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLORyellow]Best Dj Parties[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Best%20Dj%20Parties.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/dj.gif</thumbnail>
+
+<fanart>https://i.imgur.com/FDUyTLC.jpg</fanart>
+
+<info></info>
+
+</channel>
+
+
+
+</channels>
+
+
+
+
+
+
+
+
+
