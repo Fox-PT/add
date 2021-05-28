@@ -1,67 +1,113 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>Vilhao</layoutype>
-
-<channels>
-    
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/categoriaportugal.xml</externallink>
-<fanart>https://i.imgur.com/3EBSwTR.jpg</fanart>
-<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/brasil1.gif</thumbnail>
-<fanart>https://i.imgur.com/0NCgstA.jpg</fanart>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/categoria%20Brasil.xml</externallink>
-<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Espanha TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/espanha.gif</thumbnail>
-<fanart>https://i.imgur.com/Qnx8j8S.jpg</fanart>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/categorias/categoria%20espanha.xml</externallink>
-<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
-</channel>
-
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Franca TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/france.gif</thumbnail>
-<fanart>https://i.imgur.com/rF5pkbD.jpg</fanart>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/franca%20servidor%201.xml</externallink>
-<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
-</channel>
-
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Italia TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/italy.gif</thumbnail>
-<fanart>https://i.imgur.com/vPuFOBK.jpg</fanart>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/italia%20servidor%201.xml</externallink>
-<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
-</channel>
-
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]United Kingdom TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/uk.gif</thumbnail>
-<fanart>https://i.imgur.com/9ZJOcxv.jpg</fanart>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/United%20Kingdom.xml</externallink>
-<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]America TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/usa.gif</thumbnail>
-<fanart>https://i.imgur.com/a6rDOSi.jpg</fanart>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/usa%20servidor%201.xml</externallink>
-<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
-</channel>
-
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>Vilhao</layoutype>
+
+
+
+<channels>
+
+    
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Portugal%20servidor%201.xml</externallink>
+
+<fanart>https://i.imgur.com/3EBSwTR.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/brasil1.gif</thumbnail>
+
+<fanart>https://i.imgur.com/0NCgstA.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Brasil%20servidor%202.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Espanha TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/espanha.gif</thumbnail>
+
+<fanart>https://i.imgur.com/Qnx8j8S.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/espanha%20servidor%201.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Franca TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/france.gif</thumbnail>
+
+<fanart>https://i.imgur.com/rF5pkbD.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/franca%20servidor%201.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]United Kingdom TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/uk.gif</thumbnail>
+
+<fanart>https://i.imgur.com/9ZJOcxv.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/United%20Kingdom.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]America TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/usa.gif</thumbnail>
+
+<fanart>https://i.imgur.com/a6rDOSi.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/usa%20servidor%201.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+
+
 </channels>
