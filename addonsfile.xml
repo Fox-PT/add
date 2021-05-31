@@ -1,0 +1,13 @@
+name="Example addon"
+
+section="no"
+
+url="url.to.addon"
+
+icon="http://"
+
+fanart="http://"
+
+adult="no"
+
+description="A short description of the addon."
