@@ -1,29 +1,57 @@
-{
-    "presets": [
-        {
-            "name": "1GB (1st - 3rd gen, Lite Firestick)",
-            "url": "https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Wizard/advancedsettings/1plus.xml",
-            "description": ""
-        },
-        {
-            "name": "1GB to 1.5GB (4k Firestick)",
-            "url": "https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Wizard/advancedsettings/2plus.xml",
-            "description": ""
-        },
-        {
-            "name": "1.5GB to 2GB (Firebox, Cube, Sheild Tube)",
-            "url": "https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Wizard/advancedsettings/firetv.xml",
-            "description": ""
-        },
-        {
-            "name": "2GB to 3GB RAM','3GB or more (Nvidia Shield Pro)",
-            "url": "https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Wizard/advancedsettings/less1.xml",
-            "description": ""
-        },
-        {
-            "name": "Delete Advanced Settings",
-            "url": "https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Wizard/advancedsettings/shield.xml",
-            "description": ""
-        }
-    ]
+{
+
+    "presets": [
+
+        {
+
+            "name": "1GB (1st - 3rd gen, Lite Firestick)",
+
+            "url": "https://raw.githubusercontent.com/Fox-PT/add/main/Wizard/advancedsettings/1plus.xml",
+
+            "description": ""
+
+        },
+
+        {
+
+            "name": "1GB to 1.5GB (4k Firestick)",
+
+            "url": "https://raw.githubusercontent.com/Fox-PT/add/main/Wizard/advancedsettings/2plus.xml",
+
+            "description": ""
+
+        },
+
+        {
+
+            "name": "1.5GB to 2GB (Firebox, Cube, Sheild Tube)",
+
+            "url": "https://raw.githubusercontent.com/Fox-PT/add/main/Wizard/advancedsettings/firetv.xml",
+
+            "description": ""
+
+        },
+
+        {
+
+            "name": "2GB to 3GB RAM','3GB or more (Nvidia Shield Pro)",
+
+            "url": "https://raw.githubusercontent.com/Fox-PT/add/main/Wizard/advancedsettings/less1.xml",
+
+            "description": ""
+
+        },
+
+        {
+
+            "name": "Delete Advanced Settings",
+
+            "url": "https://raw.githubusercontent.com/Fox-PT/add/main/Wizard/advancedsettings/shield.xml",
+
+            "description": ""
+
+        }
+
+    ]
+
 }
