@@ -12,7 +12,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal TV[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
 
@@ -28,7 +28,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil TV[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/brasil1.gif</thumbnail>
 
@@ -44,7 +44,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Espanha TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Espanha TV[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/espanha.gif</thumbnail>
 
@@ -58,7 +58,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Franca TV[/COLOR][/B] [B][COLOR red]OFF[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Franca TV[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/uk.gif</thumbnail>
 
@@ -74,7 +74,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]United Kingdom TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]United Kingdom TV[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/uk.gif</thumbnail>
 
