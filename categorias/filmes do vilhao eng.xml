@@ -1,40 +1,79 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>Vilhao</layoutype>
-
-<channels>
-    
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Novos[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/NewReleases.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
-<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
-<info>Filmes Portugueses</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Criancas[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewKidsMovies.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
-<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
-<info>Filmes Portugueses</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Cinema Britanico[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BritishCinema.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
-<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
-<info>Filmes Brasileiros</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Antigos[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/OldMovies.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
-<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
-<info>Comedias Do Vilhao</info>
-</channel>
-
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>Vilhao</layoutype>
+
+
+
+<channels>
+
+    
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Novos[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/NewReleases.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
+
+<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
+
+<info>Filmes Portugueses</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Criancas[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/NewKidsMovies.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
+
+<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
+
+<info>Filmes Portugueses</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Cinema Britanico[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/BritishCinema.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
+
+<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
+
+<info>Filmes Brasileiros</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Antigos[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/Floyd6969.github.io/master/OldMovies.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos.gif</thumbnail>
+
+<fanart>https://i.imgur.com/sB6eEKt.jpg</fanart>
+
+<info>Comedias Do Vilhao</info>
+
+</channel>
+
+
+
+
+
 </channels>
