@@ -1,13 +1,26 @@
-name="Vilhao Matrix Build"
-version="1.0"
-url="https://archive.org/download/vilhaomatrix/vilhaomatrix.zip"
-minor="http://"
-gui="https://"
-kodi="19.0"
-theme=""
-icon="https://i.imgur.com/faWiKzl.png"
-fanart="https://i.imgur.com/faWiKzl.png"
-preview="http://"
-adult="no"
-info="http://"
-description="Vilhao Matrix 19 Build"
+name="Vilhao V.I.P. Matrix Build"
+
+version="1.0"
+
+url="https://archive.org/download/19build/vilhao19build.zip"
+
+minor="http://"
+
+gui="https://"
+
+kodi="19.0"
+
+theme=""
+
+icon="https://i.imgur.com/faWiKzl.png"
+
+fanart="https://i.imgur.com/faWiKzl.png"
+
+preview="http://"
+
+adult="no"
+
+info="http://"
+
+description="Vilhao Matrix 19 Build"
+
