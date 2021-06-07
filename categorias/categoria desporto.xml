@@ -54,13 +54,53 @@
 
 <info>Desporto servidor 1</info>
 
-</channel>    
+</channel>  
+    
+<channel>
 
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Canais De Futebol[/COLOR][/B]</name>
 
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/SportTV.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto2.gif</thumbnail>
+
+<fanart>https://i.imgur.com/s02kRcW.jpg</fanart>
+
+<info>Desporto servidor 1</info>
+
+</channel>          
+    
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Sport Tv Portugal[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/SportTV.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto2.gif</thumbnail>
+
+<fanart>https://i.imgur.com/s02kRcW.jpg</fanart>
+
+<info>Desporto servidor 1</info>
+
+</channel>      
+    
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Inglaterra[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/UK.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto2.gif</thumbnail>
+
+<fanart>https://i.imgur.com/s02kRcW.jpg</fanart>
+
+<info>Desporto servidor 1</info>
+
+</channel>      
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto servidor 1[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto mix[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/desporto%20servidor%201.xml</externallink>
 
@@ -71,6 +111,34 @@
 <info>Desporto servidor 1</info>
 
 </channel>
+    
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Bein Sports[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/Bein.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto2.gif</thumbnail>
+
+<fanart>https://i.imgur.com/s02kRcW.jpg</fanart>
+
+<info>Desporto servidor 1</info>
+
+</channel>          
+    
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Fight Sports[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/Fight.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto2.gif</thumbnail>
+
+<fanart>https://i.imgur.com/s02kRcW.jpg</fanart>
+
+<info>Desporto servidor 1</info>
+
+</channel>      
 
 
 <channel>
@@ -86,7 +154,20 @@
 <info>Desporto servidor 1</info>
 
 </channel>  
+    
+<channel>
 
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Mundo Mix[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/World.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/desporto2.gif</thumbnail>
+
+<fanart>https://i.imgur.com/s02kRcW.jpg</fanart>
+
+<info>Desporto servidor 1</info>
+
+</channel>  
 
 
 </channels>
