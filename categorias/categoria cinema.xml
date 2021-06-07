@@ -12,7 +12,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes[/COLOR][/B]  [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/filmes%20do%20vilhao%20eng.xml</externallink>
 
@@ -28,7 +28,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Portugueses[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Portugueses[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Cinema%20Portugues.xml</externallink>
 
@@ -44,7 +44,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Brasileiros[/COLOR][/B] [B][COLOR lime]Em construcao[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Filmes Brasileiros[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/cinema%20brasil.xml</externallink>
 
@@ -59,7 +59,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedias Legendadas[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedias Legendadas[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Comedias%20Legendadas.xml</externallink>
 
@@ -75,7 +75,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedia Portuguesa[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Comedia Portuguesa[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/Categoria%20Comedia%20Portuguesa.xml</externallink>
 
