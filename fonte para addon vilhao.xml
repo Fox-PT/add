@@ -1,8 +1,14 @@
+
+
+
+
 <channels>
+
+
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR lime]Bem Vindos[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR lime]Bem Vindos[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bemvindos2.gif</thumbnail>
 
@@ -16,7 +22,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Paises TV[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Paises TV[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/paises.gif</thumbnail>
 
@@ -30,7 +36,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Desporto[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/categoria%20desporto.xml</externallink>
 
@@ -46,7 +52,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Criancas[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Criancas[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/criancas.xml</externallink>
 
@@ -62,7 +68,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Cinema[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Cinema[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/categoria%20cinema.xml</externallink>
 
@@ -78,7 +84,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Musica[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Musica[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/categoria%20musica.xml</externallink>
 
@@ -94,7 +100,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Videos Para Relaxar[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Videos Para Relaxar[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Videos%20Para%20Relaxar.xml</externallink>
 
@@ -112,7 +118,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Velozes & Furiosos[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Velozes & Furiosos[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Fast%20and%20Furious.xml</externallink>
 
@@ -128,7 +134,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Live Webcams[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Live Webcams[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Cameras%20Vilhao.xml</externallink>
 
@@ -144,7 +150,7 @@
 
 <channel>
 
-<name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Testes[/COLOR][/B][/I]</name>
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Testes[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
 
 <externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/testes.xml</externallink>
 
