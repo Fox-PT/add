@@ -1,4 +1,4 @@
-name="Vilhao V.I.P. Matrix Build"
+name="Vilhao V.I.P. Matrix Build PC"
 
 version="1.0"
 
@@ -12,9 +12,9 @@ kodi="19.0"
 
 theme=""
 
-icon="https://i.imgur.com/faWiKzl.png"
+icon="https://i.imgur.com/hIeUTqG.png"
 
-fanart="https://i.imgur.com/faWiKzl.png"
+fanart="https://i.imgur.com/iVgfzCz.jpg"
 
 preview="http://"
 
@@ -24,8 +24,9 @@ info="http://"
 
 description="Vilhao Matrix 19 Build"
 
+##############################################################################
 
-name="Vilhao V.I.P. Little Matrix Build"
+name="Vilhao V.I.P. Little Matrix Build PC"
 
 version="1.0"
 
@@ -39,9 +40,9 @@ kodi="19.0"
 
 theme=""
 
-icon="https://i.imgur.com/faWiKzl.png"
+icon="https://i.imgur.com/hIeUTqG.png"
 
-fanart="https://i.imgur.com/faWiKzl.png"
+fanart="https://i.imgur.com/iVgfzCz.jpg"
 
 preview="http://"
 
@@ -50,3 +51,32 @@ adult="no"
 info="http://"
 
 description="Vilhao Little Matrix 19 Build"
+
+##############################################################
+
+name="Vilhao Metropolia Matrix Build"
+
+version="1.0"
+
+url="https://archive.org/download/metropolis-build/Vilhao.MetropolisBuild.zip"
+
+minor="http://"
+
+gui="https://"
+
+kodi="19.0"
+
+theme=""
+
+icon="https://i.imgur.com/hIeUTqG.png"
+
+fanart="https://i.imgur.com/iVgfzCz.jpg"
+
+preview="http://"
+
+adult="no"
+
+info="http://"
+
+description="Vilhao Little Matrix 19 Build"
+
