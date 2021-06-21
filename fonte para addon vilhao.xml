@@ -20,19 +20,19 @@
 
 </channel>
 
-<channel>
+<plugin>
 
 <name>[COLORspringgreen]•[/COLOR]  [I][B][COLOR yellow]Paises TV[/COLOR][/B][/I] </name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/paises.gif</thumbnail>
 
-<externallink>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/text/swift/swift.xml</externallink>
+<externallink>plugin://plugin.acme.swift/</externallink>
 
 <fanart>https://i.imgur.com/AmjgfNW.jpg</fanart>
 
 <info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B] [B][COLOR blue]T[/COLOR][/B][B][COLOR yellow]V[/COLOR][/B]</info>
 
-</channel>
+</plugin>
 
 <channel>
 
