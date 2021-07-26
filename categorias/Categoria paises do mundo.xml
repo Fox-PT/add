@@ -106,7 +106,19 @@
 
 </channel>
 
+<channel>
 
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Testes pluto tv[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/usa.gif</thumbnail>
+
+<fanart>https://i.imgur.com/a6rDOSi.jpg</fanart>
+
+<externallink>https://github.com/doomzdayteam/collections/blob/main/list/pluto/pluto.m3u</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
 
 
 
