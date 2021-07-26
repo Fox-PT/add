@@ -1,40 +1,45 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
-<layoutype>Vilhao</layoutype>
-
-
-<channels>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal Servidor 1[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Portugal%20servidor%201.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
-<fanart>https://i.imgur.com/K6Il2f6.jpg</fanart>
-<info>Filmes Portugueses</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal Servidor 2[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/portugal%20servidor%202.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
-<fanart>https://i.imgur.com/K6Il2f6.jpg</fanart>
-<info>Comedias Do Vilhao Legendados</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal Servidor 3[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Portugal%20Servidor%203.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
-<fanart>https://i.imgur.com/K6Il2f6.jpg</fanart>
-<info>Comedias Do Vilhao Legendados</info>
-</channel>
-
-<channel>
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal Servidor 4[/COLOR][/B] [B][COLOR lime]testes[/COLOR][/B]</name>
-<externallink>https://vilhaorepository.000webhostapp.com/A:%20Vilhao%20Matrix/Addon/Listas/Portugal%20servidor%204.xml</externallink>
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
-<fanart>https://i.imgur.com/K6Il2f6.jpg</fanart>
-<info>Comedias Do Vilhao Legendados</info>
-</channel>
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>Vilhao</layoutype>
+
+
+
+
+
+<channels>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal Servidor 1[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/paises%20listas%20new/portugal%201.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
+
+<fanart>https://i.imgur.com/K6Il2f6.jpg</fanart>
+
+<info>Filmes Portugueses</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal Servidor 2[/COLOR][/B] [B][COLOR lime]ON[/COLOR][/B]</name>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/paises%20listas%20new/portugal%202.xml</externallink>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
+
+<fanart>https://i.imgur.com/K6Il2f6.jpg</fanart>
+
+<info>Comedias Do Vilhao Legendados</info>
+
+</channel>
+
 </channels>
