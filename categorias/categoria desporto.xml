@@ -96,35 +96,7 @@
 
 <info>Inglaterra</info>
 
-</channel>      
-
-<channel>
-
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Desporto Mix[/COLOR][/B]</name>
-
-<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/desporto%20servidor%201.xml</externallink>
-
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/f1.gif</thumbnail>
-
-<fanart>https://i.imgur.com/ssh82bE.jpg</fanart>
-
-<info>Desporto Mix</info>
-
-</channel>
-    
-<channel>
-
-<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Bein Sports[/COLOR][/B]</name>
-
-<externallink>https://raw.githubusercontent.com/Floyd6969/DJV/master/simple/Bein.xml</externallink>
-
-<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/bein.gif</thumbnail>
-
-<fanart>https://i.imgur.com/1cStLmV.jpg</fanart>
-
-<info>Bein Sports</info>
-
-</channel>          
+</channel>    
     
 <channel>
 
