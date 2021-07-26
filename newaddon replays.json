@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "fanart": "https://i.imgur.com/OmM7DK9.jpg", 
+            "link": "http://racingondemand.xyz/noneofyourebusiness/json/liverace.json", 
+            "thumbnail": "https://i.imgur.com/22vkOQM.png", 
+            "title": "[I][B][COLORblue] --- [COLORyellow] Live Zone[/COLOR] --- [/COLOR][/B][/I]", 
+            "type": "dir"
+        }, 
+        {
+            "fanart": "https://i.imgur.com/OmM7DK9.jpg", 
+            "link": "http://racingondemand.xyz/noneofyourebusiness/json/mainxml/carsmain.json", 
+            "thumbnail": "https://i.imgur.com/22vkOQM.png", 
+            "title": "[I][B][COLORblue] --- [COLORyellow] Super Cars[/COLOR] --- [/COLOR][/B][/I]", 
+            "type": "dir"
+        }, 
+        {
+            "fanart": "https://i.imgur.com/OmM7DK9.jpg", 
+            "link": "http://racingondemand.xyz/noneofyourebusiness/json/mainxml/bikes.json", 
+            "thumbnail": "https://i.imgur.com/22vkOQM.png", 
+            "title": "[I][B][COLORblue] --- [COLORyellow] Super Bikes[/COLOR] --- [/COLOR][/B][/I]", 
+            "type": "dir"
+        }, 
+        {
+            "fanart": "https://i.imgur.com/OmM7DK9.jpg", 
+            "link": "http://racingondemand.xyz/noneofyourebusiness/json/series.json", 
+            "thumbnail": "https://i.imgur.com/22vkOQM.png", 
+            "title": "[I][B][COLORblue] --- [COLORyellow]Car Shows [/COLOR] --- [/COLOR][/B][/I]", 
+            "type": "dir"
+        }, 
+        {
+            "fanart": "https://i.imgur.com/OmM7DK9.jpg", 
+            "link": "http://racingondemand.xyz/noneofyourebusiness/json/roadrace/archives.json", 
+            "thumbnail": "https://i.imgur.com/22vkOQM.png", 
+            "title": "[I][B][COLORblue] --- [COLORyellow] Race Archive [/COLOR] --- [/COLOR][/B][/I]", 
+            "type": "dir"
+        }
+    ]
+}
