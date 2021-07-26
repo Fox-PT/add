@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>Vilhao</layoutype>
+
+
+
+<channels>
+
+    
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Portugal TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/portugal.gif</thumbnail>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/categoriaportugal.xml</externallink>
+
+<fanart>https://i.imgur.com/3EBSwTR.jpg</fanart>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Brasil TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/brasil1.gif</thumbnail>
+
+<fanart>https://i.imgur.com/0NCgstA.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/Brasil%20servidor%202.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Espanha TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/espanha.gif</thumbnail>
+
+<fanart>https://i.imgur.com/Qnx8j8S.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/categorias/categoria%20espanha.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Franca TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/france.gif</thumbnail>
+
+<fanart>https://i.imgur.com/rF5pkbD.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/franca%20servidor%201.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]United Kingdom TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/uk.gif</thumbnail>
+
+<fanart>https://i.imgur.com/9ZJOcxv.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/United%20Kingdom.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]USA TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/usa.gif</thumbnail>
+
+<fanart>https://i.imgur.com/a6rDOSi.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/Listas/usa%20servidor%201.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Pluto TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/pluto tv.gif</thumbnail>
+
+<fanart>https://i.imgur.com/lv7fR2c.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/doomzdayteam/collections/main/list/pluto/pluto.m3u</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+<channel>
+
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]World Mix[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/paises.gif</thumbnail>
+
+<fanart>https://i.imgur.com/vjwF8cg.jpg</fanart>
+
+<externallink>https://doomzdayteam.github.io/iptv/index.m3u</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>	
+	
+
+
+</channels>
+
+<sources>
+	<source>
+		<url>https://doomzdayteam.github.io/iptv/index.m3u</url>
+		<name>International Channels</name>
+		<icon></icon>
+	</source>
+	<source>
+		<url>https://doomzdayteam.github.io/iptv/languages/eng.m3u</url>
+		<name>English Channels</name>
+		<icon></icon>
+	</source>
+	<source>
+		<url>https://doomzdayteam.github.io/collections/list/pluto/pluto.m3u</url>
+		<name>Pluto Channels</name>
+		<icon>https://i.imgur.com/1KqGLEH.jpg</icon>
+	</source>
+	<source>
+		<url>https://doomzdayteam.github.io/collections/list/stirr/stirr.m3u</url>
+		<name>Stirr Channels</name>
+		<icon>https://i.imgur.com/2b8Ayju.png</icon>
+	</source>
+	<source>
+		<url>https://doomzdayteam.github.io/collections/list/plex/plex.m3u</url>
+		<name>Plex Channels</name>
+		<icon>https://i.imgur.com/OkjAAjN.png</icon>
+	</source>
+</sources>
