@@ -1,402 +1,440 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT|HEVC| PORTUGAL #####
-http://rv.flysat.live:80/307211731471/307211731471/81833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| RTP 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81832
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| RTP 2 HD
-http://rv.flysat.live:80/307211731471/307211731471/81831
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| RTP 3 HD
-http://rv.flysat.live:80/307211731471/307211731471/81830
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC HD
-http://rv.flysat.live:80/307211731471/307211731471/81829
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC MULHER HD
-http://rv.flysat.live:80/307211731471/307211731471/81828
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC NOTICIAS HD
-http://rv.flysat.live:80/307211731471/307211731471/81827
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC RADICAL HD
-http://rv.flysat.live:80/307211731471/307211731471/81826
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC CARAS HD
-http://rv.flysat.live:80/307211731471/307211731471/81825
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TVI FICCAO HD
-http://rv.flysat.live:80/307211731471/307211731471/81824
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TVI HD
-http://rv.flysat.live:80/307211731471/307211731471/81823
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TVI24 HD
-http://rv.flysat.live:80/307211731471/307211731471/81822
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| PORTO CANAL HD
-http://rv.flysat.live:80/307211731471/307211731471/81821
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| GLOBO PORTUGAL HD
-http://rv.flysat.live:80/307211731471/307211731471/81820
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ZAP VIVA HD
-http://rv.flysat.live:80/307211731471/307211731471/81819
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| E! ENTERTAINMENT HD
-http://rv.flysat.live:80/307211731471/307211731471/81818
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT|HEVC| FILMES #####
-http://rv.flysat.live:80/307211731471/307211731471/81817
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AMC HD
-http://rv.flysat.live:80/307211731471/307211731471/81816
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AXN HD
-http://rv.flysat.live:80/307211731471/307211731471/81815
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AXN WHITE HD
-http://rv.flysat.live:80/307211731471/307211731471/81814
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AXN MOVIES HD
-http://rv.flysat.live:80/307211731471/307211731471/81813
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE TOP HD
-http://rv.flysat.live:80/307211731471/307211731471/81812
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE EDITION HD
-http://rv.flysat.live:80/307211731471/307211731471/81811
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE EMOTION HD
-http://rv.flysat.live:80/307211731471/307211731471/81810
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE ACTION HD
-http://rv.flysat.live:80/307211731471/307211731471/81809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX HD
-http://rv.flysat.live:80/307211731471/307211731471/81808
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX MOVIES HD
-http://rv.flysat.live:80/307211731471/307211731471/81807
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX CRIME HD
-http://rv.flysat.live:80/307211731471/307211731471/81806
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX LIFE HD
-http://rv.flysat.live:80/307211731471/307211731471/81805
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SYFY HD
-http://rv.flysat.live:80/307211731471/307211731471/81804
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| BLAZE TV HD
-http://rv.flysat.live:80/307211731471/307211731471/81803
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| NOS STUDIO HD
-http://rv.flysat.live:80/307211731471/307211731471/81802
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT|HEVC| SERIES #####
-http://rv.flysat.live:80/307211731471/307211731471/81801
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| HOLLYWOOD HD
-http://rv.flysat.live:80/307211731471/307211731471/81800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CINEMUNDO HD
-http://rv.flysat.live:80/307211731471/307211731471/81799
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT|HEVC| CULTURA #####
-http://rv.flysat.live:80/307211731471/307211731471/81798
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| NATIONAL GEOGRAPHIC HD
-http://rv.flysat.live:80/307211731471/307211731471/81797
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| NAT GEO WILD HD
-http://rv.flysat.live:80/307211731471/307211731471/81796
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ID INVESTIGATION DISCOVERY HD
-http://rv.flysat.live:80/307211731471/307211731471/81795
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TRAVEL CHANNEL HD
-http://rv.flysat.live:80/307211731471/307211731471/81794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| HISTORIA HD
-http://rv.flysat.live:80/307211731471/307211731471/81793
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FINE LIVING NETWORK HD
-http://rv.flysat.live:80/307211731471/307211731471/81792
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| DOG TV HD
-http://rv.flysat.live:80/307211731471/307211731471/81791
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ODISSEIA HD
-http://rv.flysat.live:80/307211731471/307211731471/81790
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| 24 KITCHEN HD
-http://rv.flysat.live:80/307211731471/307211731471/81789
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CASA E COZINHA HD
-http://rv.flysat.live:80/307211731471/307211731471/81788
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT|HEVC| DESPORTO #####
-http://rv.flysat.live:80/307211731471/307211731471/81787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| BTV 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81786
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| A BOLA TV HD
-http://rv.flysat.live:80/307211731471/307211731471/81785
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORTING TV HD
-http://rv.flysat.live:80/307211731471/307211731471/81784
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| EUROSPORT 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81783
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV + HD
-http://rv.flysat.live:80/307211731471/307211731471/81782
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 2 HD
-http://rv.flysat.live:80/307211731471/307211731471/81780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 3 HD
-http://rv.flysat.live:80/307211731471/307211731471/81779
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV NBA HD
-http://rv.flysat.live:80/307211731471/307211731471/81778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307211731471/307211731471/81776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS  3 HD
-http://rv.flysat.live:80/307211731471/307211731471/81775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/307211731471/307211731471/81774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/307211731471/307211731471/81773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/307211731471/307211731471/81772
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FIGHT NETWORK HD
-http://rv.flysat.live:80/307211731471/307211731471/81771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CANAL 11 HD
-http://rv.flysat.live:80/307211731471/307211731471/81770
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CMTV HD
-http://rv.flysat.live:80/307211731471/307211731471/81769
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| PORTUGAL #####
-http://rv.flysat.live:80/307211731471/307211731471/81768
+http://rv.flysat.live:80/307211765061/307211765061/177309
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CORONA VIRUS INFO
-http://rv.flysat.live:80/307211731471/307211731471/81767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP 2 HD
-http://rv.flysat.live:80/307211731471/307211731471/81765
+http://rv.flysat.live:80/307211765061/307211765061/177308
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP 1
-http://rv.flysat.live:80/307211731471/307211731471/81764
+http://rv.flysat.live:80/307211765061/307211765061/177307
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177306
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| RTP 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177305
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP 2
-http://rv.flysat.live:80/307211731471/307211731471/81763
+http://rv.flysat.live:80/307211765061/307211765061/177304
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP 2 HD
+http://rv.flysat.live:80/307211765061/307211765061/177303
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| RTP 2 HD
+http://rv.flysat.live:80/307211765061/307211765061/177302
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP 3
-http://rv.flysat.live:80/307211731471/307211731471/81762
+http://rv.flysat.live:80/307211765061/307211765061/177301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| RTP 3 HD
+http://rv.flysat.live:80/307211765061/307211765061/177300
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC HD
+http://rv.flysat.live:80/307211765061/307211765061/177299
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TVI HD
+http://rv.flysat.live:80/307211765061/307211765061/177298
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP INTERNATIONAL
-http://rv.flysat.live:80/307211731471/307211731471/81761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP ACORES
-http://rv.flysat.live:80/307211731471/307211731471/81760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP AFRICA
-http://rv.flysat.live:80/307211731471/307211731471/81759
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP MADEIRA
-http://rv.flysat.live:80/307211731471/307211731471/81758
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP MEMORIA
-http://rv.flysat.live:80/307211731471/307211731471/81757
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC
-http://rv.flysat.live:80/307211731471/307211731471/81756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC MULHER
-http://rv.flysat.live:80/307211731471/307211731471/81755
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC NOTICIAS
-http://rv.flysat.live:80/307211731471/307211731471/81754
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC RADICAL
-http://rv.flysat.live:80/307211731471/307211731471/81753
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC CARAS
-http://rv.flysat.live:80/307211731471/307211731471/81752
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC K
-http://rv.flysat.live:80/307211731471/307211731471/81751
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CANAL Q
-http://rv.flysat.live:80/307211731471/307211731471/81750
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| PORTO CANAL
-http://rv.flysat.live:80/307211731471/307211731471/81749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVE 24H
-http://rv.flysat.live:80/307211731471/307211731471/81748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI
-http://rv.flysat.live:80/307211731471/307211731471/81747
+http://rv.flysat.live:80/307211765061/307211765061/177297
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI 24
-http://rv.flysat.live:80/307211731471/307211731471/81746
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI FICCAO
-http://rv.flysat.live:80/307211731471/307211731471/81745
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MCS EXTREME
-http://rv.flysat.live:80/307211731471/307211731471/81744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI REALITY
-http://rv.flysat.live:80/307211731471/307211731471/81743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV RECORD
-http://rv.flysat.live:80/307211731471/307211731471/81742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ZAP VIVA HD
-http://rv.flysat.live:80/307211731471/307211731471/81741
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| KURIAKOS TV
-http://rv.flysat.live:80/307211731471/307211731471/81740
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TCV CABO
-http://rv.flysat.live:80/307211731471/307211731471/81739
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| INFANTIL #####
-http://rv.flysat.live:80/307211731471/307211731471/81738
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BABY TV
-http://rv.flysat.live:80/307211731471/307211731471/81737
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CANAL PANDA
-http://rv.flysat.live:80/307211731471/307211731471/81736
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISNEY CHANNEL
-http://rv.flysat.live:80/307211731471/307211731471/81735
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISNEY JUNIOR
-http://rv.flysat.live:80/307211731471/307211731471/81734
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CARTOON NETWORK
-http://rv.flysat.live:80/307211731471/307211731471/81733
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| JIM JAM
-http://rv.flysat.live:80/307211731471/307211731471/81732
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BIGGS
-http://rv.flysat.live:80/307211731471/307211731471/81731
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NICKELODEON
-http://rv.flysat.live:80/307211731471/307211731471/81730
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NICK JR.
-http://rv.flysat.live:80/307211731471/307211731471/81729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| ENTRETENIMENTO #####
-http://rv.flysat.live:80/307211731471/307211731471/81728
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| E! ENTERTAINMENT
-http://rv.flysat.live:80/307211731471/307211731471/81727
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| FILMES #####
-http://rv.flysat.live:80/307211731471/307211731471/81726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AMC HD
-http://rv.flysat.live:80/307211731471/307211731471/81725
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AMC
-http://rv.flysat.live:80/307211731471/307211731471/81724
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AXN HD
-http://rv.flysat.live:80/307211731471/307211731471/81723
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AXN WHITE HD
-http://rv.flysat.live:80/307211731471/307211731471/81722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AXN MOVIES HD
-http://rv.flysat.live:80/307211731471/307211731471/81721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE TOP HD
-http://rv.flysat.live:80/307211731471/307211731471/81720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE EDITION HD
-http://rv.flysat.live:80/307211731471/307211731471/81719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE EMOTION HD
-http://rv.flysat.live:80/307211731471/307211731471/81718
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE ACTION HD
-http://rv.flysat.live:80/307211731471/307211731471/81717
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE EDITION
-http://rv.flysat.live:80/307211731471/307211731471/81716
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE ACTION
-http://rv.flysat.live:80/307211731471/307211731471/81715
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX HD
-http://rv.flysat.live:80/307211731471/307211731471/81714
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX MOVIES
-http://rv.flysat.live:80/307211731471/307211731471/81713
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX COMEDY
-http://rv.flysat.live:80/307211731471/307211731471/81712
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX CRIME HD
-http://rv.flysat.live:80/307211731471/307211731471/81711
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX LIFE HD
-http://rv.flysat.live:80/307211731471/307211731471/81710
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SYFY
-http://rv.flysat.live:80/307211731471/307211731471/81709
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NOS STUDIO HD
-http://rv.flysat.live:80/307211731471/307211731471/81708
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NOS STUDIOS HD
-http://rv.flysat.live:80/307211731471/307211731471/81707
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| INTERNACIONAIS #####
-http://rv.flysat.live:80/307211731471/307211731471/81706
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| GLOBO HD
-http://rv.flysat.live:80/307211731471/307211731471/81705
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| GLOBO PREMIUM
-http://rv.flysat.live:80/307211731471/307211731471/81704
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV GALICIA
-http://rv.flysat.live:80/307211731471/307211731471/81703
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CNN
-http://rv.flysat.live:80/307211731471/307211731471/81702
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SKY NEWS
-http://rv.flysat.live:80/307211731471/307211731471/81701
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CNBC
-http://rv.flysat.live:80/307211731471/307211731471/81700
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EURONEWS
-http://rv.flysat.live:80/307211731471/307211731471/81699
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV5 MONDE
-http://rv.flysat.live:80/307211731471/307211731471/81698
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BBC WORLD NEWS
-http://rv.flysat.live:80/307211731471/307211731471/81697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CBS REALITY
-http://rv.flysat.live:80/307211731471/307211731471/81696
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BLOOMBERG
-http://rv.flysat.live:80/307211731471/307211731471/81695
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FTV
-http://rv.flysat.live:80/307211731471/307211731471/81694
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CANACAO NOVA
-http://rv.flysat.live:80/307211731471/307211731471/81693
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX NEWS
-http://rv.flysat.live:80/307211731471/307211731471/81692
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| MUSICA #####
-http://rv.flysat.live:80/307211731471/307211731471/81691
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TRACE URBAN
-http://rv.flysat.live:80/307211731471/307211731471/81690
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TRACE TOCA
-http://rv.flysat.live:80/307211731471/307211731471/81689
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| VH1
-http://rv.flysat.live:80/307211731471/307211731471/81688
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| VH1 CLASSIC
-http://rv.flysat.live:80/307211731471/307211731471/81687
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AFRO MUSIC
-http://rv.flysat.live:80/307211731471/307211731471/81686
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MTV PORTUGAL
-http://rv.flysat.live:80/307211731471/307211731471/81685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MCM POP
-http://rv.flysat.live:80/307211731471/307211731471/81684
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MEZZO
-http://rv.flysat.live:80/307211731471/307211731471/81683
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| SERIES  #####
-http://rv.flysat.live:80/307211731471/307211731471/81682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| HOLLYWOOD HD
-http://rv.flysat.live:80/307211731471/307211731471/81681
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| HOLLYWOOD
-http://rv.flysat.live:80/307211731471/307211731471/81680
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CINEMUNDO
-http://rv.flysat.live:80/307211731471/307211731471/81679
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV SERIES HD
-http://rv.flysat.live:80/307211731471/307211731471/81678
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV SERIES
-http://rv.flysat.live:80/307211731471/307211731471/81677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| CULTURA #####
-http://rv.flysat.live:80/307211731471/307211731471/81676
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISCOVERY CHANNEL
-http://rv.flysat.live:80/307211731471/307211731471/81675
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISCOVERY HD SHOWCASE
-http://rv.flysat.live:80/307211731471/307211731471/81674
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NAT GEO GEOGRAPHIC HD
-http://rv.flysat.live:80/307211731471/307211731471/81673
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NAT GEO WILD
-http://rv.flysat.live:80/307211731471/307211731471/81672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CRIME INVESTIGATION
-http://rv.flysat.live:80/307211731471/307211731471/81671
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TRAVEL CHANNEL HD
-http://rv.flysat.live:80/307211731471/307211731471/81670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ODISSEIA
-http://rv.flysat.live:80/307211731471/307211731471/81669
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| 24 KITCHEN HD
-http://rv.flysat.live:80/307211731471/307211731471/81668
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| HISTORIA
-http://rv.flysat.live:80/307211731471/307211731471/81667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TLC
-http://rv.flysat.live:80/307211731471/307211731471/81666
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| DESPORTO #####
-http://rv.flysat.live:80/307211731471/307211731471/81665
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BTV 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| A BOLA TV
-http://rv.flysat.live:80/307211731471/307211731471/81663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| KOMBAT SPORT
-http://rv.flysat.live:80/307211731471/307211731471/81662
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORTING TV
-http://rv.flysat.live:80/307211731471/307211731471/81661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FUEL TV
-http://rv.flysat.live:80/307211731471/307211731471/81660
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EUROSPORT 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EUROSPORT 1
-http://rv.flysat.live:80/307211731471/307211731471/81658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EUROSPORT 2
-http://rv.flysat.live:80/307211731471/307211731471/81657
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| PFC
-http://rv.flysat.live:80/307211731471/307211731471/81656
+http://rv.flysat.live:80/307211765061/307211765061/177296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TVI 24 HD
+http://rv.flysat.live:80/307211765061/307211765061/177295
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC NOTICIAS
+http://rv.flysat.live:80/307211765061/307211765061/177294
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC NOTICIAS HD
+http://rv.flysat.live:80/307211765061/307211765061/177293
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CMTV
-http://rv.flysat.live:80/307211731471/307211731471/81655
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TOROS TV
-http://rv.flysat.live:80/307211731471/307211731471/81654
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV
-http://rv.flysat.live:80/307211731471/307211731471/81653
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81652
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 1 HD NOS
-http://rv.flysat.live:80/307211731471/307211731471/81651
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 1
-http://rv.flysat.live:80/307211731471/307211731471/81650
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 2 HD
-http://rv.flysat.live:80/307211731471/307211731471/81649
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 2
-http://rv.flysat.live:80/307211731471/307211731471/81648
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 3 HD
-http://rv.flysat.live:80/307211731471/307211731471/81647
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 3
-http://rv.flysat.live:80/307211731471/307211731471/81646
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 4
-http://rv.flysat.live:80/307211731471/307211731471/81645
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 5
-http://rv.flysat.live:80/307211731471/307211731471/81644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NBA TV
-http://rv.flysat.live:80/307211731471/307211731471/81643
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 1 HD
-http://rv.flysat.live:80/307211731471/307211731471/81642
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 2 HD
-http://rv.flysat.live:80/307211731471/307211731471/81641
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 3 HD
-http://rv.flysat.live:80/307211731471/307211731471/81640
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 4 HD
-http://rv.flysat.live:80/307211731471/307211731471/81639
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 5 HD
-http://rv.flysat.live:80/307211731471/307211731471/81638
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 6 HD
-http://rv.flysat.live:80/307211731471/307211731471/81637
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MOTORVISION
-http://rv.flysat.live:80/307211731471/307211731471/81636
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| REAL MADRID TV
-http://rv.flysat.live:80/307211731471/307211731471/81635
+http://rv.flysat.live:80/307211765061/307211765061/177292
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CMTV HD
+http://rv.flysat.live:80/307211765061/307211765061/177291
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP AFRICA
+http://rv.flysat.live:80/307211765061/307211765061/177290
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP MADEIRA
+http://rv.flysat.live:80/307211765061/307211765061/177289
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP ACORES
+http://rv.flysat.live:80/307211765061/307211765061/177288
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| PORTO CANAL
+http://rv.flysat.live:80/307211765061/307211765061/177287
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| PORTO CANAL HD
+http://rv.flysat.live:80/307211765061/307211765061/177286
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CACA E PESCA
+http://rv.flysat.live:80/307211765061/307211765061/177285
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| RTP MEMORIA
+http://rv.flysat.live:80/307211765061/307211765061/177284
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI FICCAO
+http://rv.flysat.live:80/307211765061/307211765061/177283
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MCS EXTREME
+http://rv.flysat.live:80/307211765061/307211765061/177282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI REALITY
+http://rv.flysat.live:80/307211765061/307211765061/177281
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| DESPORTO #####
+http://rv.flysat.live:80/307211765061/307211765061/177280
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CANAL 11
-http://rv.flysat.live:80/307211731471/307211731471/81634
+http://rv.flysat.live:80/307211765061/307211765061/177279
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CANAL 11 HD
+http://rv.flysat.live:80/307211765061/307211765061/177278
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV
+http://rv.flysat.live:80/307211765061/307211765061/177277
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV + HD
+http://rv.flysat.live:80/307211765061/307211765061/177276
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 1
+http://rv.flysat.live:80/307211765061/307211765061/177275
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177274
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 1 HD NOS
+http://rv.flysat.live:80/307211765061/307211765061/177273
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177272
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 2
+http://rv.flysat.live:80/307211765061/307211765061/177271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 2 HD
+http://rv.flysat.live:80/307211765061/307211765061/177270
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 3
+http://rv.flysat.live:80/307211765061/307211765061/177269
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 3 HD
+http://rv.flysat.live:80/307211765061/307211765061/177268
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 3 HD
+http://rv.flysat.live:80/307211765061/307211765061/177267
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 4
+http://rv.flysat.live:80/307211765061/307211765061/177266
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORT TV 5
+http://rv.flysat.live:80/307211765061/307211765061/177265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307211765061/307211765061/177262
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 2 HD
+http://rv.flysat.live:80/307211765061/307211765061/177261
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 3 HD
+http://rv.flysat.live:80/307211765061/307211765061/177260
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS  3 HD
+http://rv.flysat.live:80/307211765061/307211765061/177259
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307211765061/307211765061/177258
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 4 HD
+http://rv.flysat.live:80/307211765061/307211765061/177257
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307211765061/307211765061/177256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 5 HD
+http://rv.flysat.live:80/307211765061/307211765061/177255
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307211765061/307211765061/177254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ELEVEN SPORTS 6 HD
+http://rv.flysat.live:80/307211765061/307211765061/177253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BTV 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| BTV 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177251
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SPORTING TV
+http://rv.flysat.live:80/307211765061/307211765061/177250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORTING TV HD
+http://rv.flysat.live:80/307211765061/307211765061/177249
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV NBA HD
+http://rv.flysat.live:80/307211765061/307211765061/177248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| KOMBAT SPORT
+http://rv.flysat.live:80/307211765061/307211765061/177247
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FUEL TV
+http://rv.flysat.live:80/307211765061/307211765061/177246
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EUROSPORT 1
+http://rv.flysat.live:80/307211765061/307211765061/177245
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EUROSPORT 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| EUROSPORT 1 HD
+http://rv.flysat.live:80/307211765061/307211765061/177243
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EUROSPORT 2
+http://rv.flysat.live:80/307211765061/307211765061/177242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| A BOLA TV
+http://rv.flysat.live:80/307211765061/307211765061/177241
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| PFC
+http://rv.flysat.live:80/307211765061/307211765061/177240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| A BOLA TV HD
+http://rv.flysat.live:80/307211765061/307211765061/177239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NBA TV
+http://rv.flysat.live:80/307211765061/307211765061/177238
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FIGHT NETWORK HD
+http://rv.flysat.live:80/307211765061/307211765061/177237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MOTORVISION
+http://rv.flysat.live:80/307211765061/307211765061/177236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| REAL MADRID TV
+http://rv.flysat.live:80/307211765061/307211765061/177235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| AFRICA #####
+http://rv.flysat.live:80/307211765061/307211765061/177234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ZAP VIVA HD
+http://rv.flysat.live:80/307211765061/307211765061/177233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV ZIMBO
+http://rv.flysat.live:80/307211765061/307211765061/177232
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TPA 1
+http://rv.flysat.live:80/307211765061/307211765061/177231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TPA International
+http://rv.flysat.live:80/307211765061/307211765061/177230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVM1
+http://rv.flysat.live:80/307211765061/307211765061/177229
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVM2
+http://rv.flysat.live:80/307211765061/307211765061/177228
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVMANA MAPUTO
+http://rv.flysat.live:80/307211765061/307211765061/177227
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TCV CABO RADIO
+http://rv.flysat.live:80/307211765061/307211765061/177226
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| BRASIL #####
+http://rv.flysat.live:80/307211765061/307211765061/177225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV RECORD
+http://rv.flysat.live:80/307211765061/307211765061/177224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| GLOBO HD
+http://rv.flysat.live:80/307211765061/307211765061/177223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| GLOBO PORTUGAL HD
+http://rv.flysat.live:80/307211765061/307211765061/177222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| GLOBO PREMIUM
+http://rv.flysat.live:80/307211765061/307211765061/177221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| RELIGIAO #####
+http://rv.flysat.live:80/307211765061/307211765061/177220
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| KURIAKOS TV
+http://rv.flysat.live:80/307211765061/307211765061/177219
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CAPELA DE FATIMA
+http://rv.flysat.live:80/307211765061/307211765061/177218
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CANACAO NOVA
+http://rv.flysat.live:80/307211765061/307211765061/177217
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| CINEMA #####
+http://rv.flysat.live:80/307211765061/307211765061/177216
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX HD
+http://rv.flysat.live:80/307211765061/307211765061/177215
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX HD
+http://rv.flysat.live:80/307211765061/307211765061/177214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX COMEDY
+http://rv.flysat.live:80/307211765061/307211765061/177213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX CRIME HD
+http://rv.flysat.live:80/307211765061/307211765061/177212
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX CRIME HD
+http://rv.flysat.live:80/307211765061/307211765061/177211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX LIFE HD
+http://rv.flysat.live:80/307211765061/307211765061/177210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX LIFE HD
+http://rv.flysat.live:80/307211765061/307211765061/177209
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX MOVIES
+http://rv.flysat.live:80/307211765061/307211765061/177208
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FOX MOVIES HD
+http://rv.flysat.live:80/307211765061/307211765061/177207
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FOX NEWS
+http://rv.flysat.live:80/307211765061/307211765061/177206
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE TOP HD
+http://rv.flysat.live:80/307211765061/307211765061/177205
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE TOP HD
+http://rv.flysat.live:80/307211765061/307211765061/177204
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE EDITION HD
+http://rv.flysat.live:80/307211765061/307211765061/177203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE EDITION HD
+http://rv.flysat.live:80/307211765061/307211765061/177202
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE EMOTION HD
+http://rv.flysat.live:80/307211765061/307211765061/177201
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE EMOTION HD
+http://rv.flysat.live:80/307211765061/307211765061/177200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE ACTION HD
+http://rv.flysat.live:80/307211765061/307211765061/177199
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV CINE ACTION HD
+http://rv.flysat.live:80/307211765061/307211765061/177198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE EDITION
+http://rv.flysat.live:80/307211765061/307211765061/177197
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVCINE ACTION
+http://rv.flysat.live:80/307211765061/307211765061/177196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV SERIES
+http://rv.flysat.live:80/307211765061/307211765061/177195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV SERIES HD
+http://rv.flysat.live:80/307211765061/307211765061/177194
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AXN HD
+http://rv.flysat.live:80/307211765061/307211765061/177193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AXN HD
+http://rv.flysat.live:80/307211765061/307211765061/177192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AXN WHITE HD
+http://rv.flysat.live:80/307211765061/307211765061/177191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AXN WHITE HD
+http://rv.flysat.live:80/307211765061/307211765061/177190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AXN MOVIES HD
+http://rv.flysat.live:80/307211765061/307211765061/177189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AXN MOVIES HD
+http://rv.flysat.live:80/307211765061/307211765061/177188
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CINEMUNDO
+http://rv.flysat.live:80/307211765061/307211765061/177187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CINEMUNDO HD
+http://rv.flysat.live:80/307211765061/307211765061/177186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NOS STUDIOS HD
+http://rv.flysat.live:80/307211765061/307211765061/177185
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| HOLLYWOOD
+http://rv.flysat.live:80/307211765061/307211765061/177184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| HOLLYWOOD HD
+http://rv.flysat.live:80/307211765061/307211765061/177183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| HOLLYWOOD HD
+http://rv.flysat.live:80/307211765061/307211765061/177182
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NOS STUDIO HD
+http://rv.flysat.live:80/307211765061/307211765061/177181
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| NOS STUDIO HD
+http://rv.flysat.live:80/307211765061/307211765061/177180
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| INFANTIL #####
+http://rv.flysat.live:80/307211765061/307211765061/177179
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NICKELODEON
+http://rv.flysat.live:80/307211765061/307211765061/177178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NICK JR.
+http://rv.flysat.live:80/307211765061/307211765061/177177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| JIM JAM
+http://rv.flysat.live:80/307211765061/307211765061/177176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISNEY JUNIOR
+http://rv.flysat.live:80/307211765061/307211765061/177175
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISNEY CHANNEL
+http://rv.flysat.live:80/307211765061/307211765061/177174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BABY TV
+http://rv.flysat.live:80/307211765061/307211765061/177173
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BIGGS
+http://rv.flysat.live:80/307211765061/307211765061/177172
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CANAL PANDA
+http://rv.flysat.live:80/307211765061/307211765061/177171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CARTOON NETWORK
+http://rv.flysat.live:80/307211765061/307211765061/177170
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| MUSICA #####
+http://rv.flysat.live:80/307211765061/307211765061/177169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MEZZO
+http://rv.flysat.live:80/307211765061/307211765061/177168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| VH1
+http://rv.flysat.live:80/307211765061/307211765061/177167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| VH1 CLASSIC
+http://rv.flysat.live:80/307211765061/307211765061/177166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MCM POP
+http://rv.flysat.live:80/307211765061/307211765061/177165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| MTV PORTUGAL
+http://rv.flysat.live:80/307211765061/307211765061/177164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AFRO MUSIC
+http://rv.flysat.live:80/307211765061/307211765061/177163
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TRACE TOCA
+http://rv.flysat.live:80/307211765061/307211765061/177162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TRACE URBAN
+http://rv.flysat.live:80/307211765061/307211765061/177161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| CULTURA #####
+http://rv.flysat.live:80/307211765061/307211765061/177160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ID INVESTIGATION DISCOVERY HD
+http://rv.flysat.live:80/307211765061/307211765061/177159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| E! ENTERTAINMENT
+http://rv.flysat.live:80/307211765061/307211765061/177158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| E! ENTERTAINMENT HD
+http://rv.flysat.live:80/307211765061/307211765061/177157
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISCOVERY CHANNEL
+http://rv.flysat.live:80/307211765061/307211765061/177156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| DISCOVERY HD SHOWCASE
+http://rv.flysat.live:80/307211765061/307211765061/177155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NAT GEO GEOGRAPHIC HD
+http://rv.flysat.live:80/307211765061/307211765061/177154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| NATIONAL GEOGRAPHIC HD
+http://rv.flysat.live:80/307211765061/307211765061/177153
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| NAT GEO WILD
+http://rv.flysat.live:80/307211765061/307211765061/177152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| NAT GEO WILD HD
+http://rv.flysat.live:80/307211765061/307211765061/177151
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CRIME INVESTIGATION
+http://rv.flysat.live:80/307211765061/307211765061/177150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| ODISSEIA
+http://rv.flysat.live:80/307211765061/307211765061/177149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ODISSEIA HD
+http://rv.flysat.live:80/307211765061/307211765061/177148
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| HISTORIA
+http://rv.flysat.live:80/307211765061/307211765061/177147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| HISTORIA HD
+http://rv.flysat.live:80/307211765061/307211765061/177146
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| FINE LIVING NETWORK HD
+http://rv.flysat.live:80/307211765061/307211765061/177145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CASA E COZINHA HD
+http://rv.flysat.live:80/307211765061/307211765061/177144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",##### |PT| INTRETINIMENTO #####
+http://rv.flysat.live:80/307211765061/307211765061/177143
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CBS REALITY
+http://rv.flysat.live:80/307211765061/307211765061/177142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| BLAZE TV HD
+http://rv.flysat.live:80/307211765061/307211765061/177141
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BLOOMBERG
+http://rv.flysat.live:80/307211765061/307211765061/177140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| 24 KITCHEN HD
+http://rv.flysat.live:80/307211765061/307211765061/177139
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| 24 KITCHEN HD
+http://rv.flysat.live:80/307211765061/307211765061/177138
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AMC
+http://rv.flysat.live:80/307211765061/307211765061/177137
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| AMC HD
+http://rv.flysat.live:80/307211765061/307211765061/177136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| AMC HD
+http://rv.flysat.live:80/307211765061/307211765061/177135
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC CARAS
+http://rv.flysat.live:80/307211765061/307211765061/177134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC CARAS HD
+http://rv.flysat.live:80/307211765061/307211765061/177133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC K
+http://rv.flysat.live:80/307211765061/307211765061/177132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC MULHER
+http://rv.flysat.live:80/307211765061/307211765061/177131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC MULHER HD
+http://rv.flysat.live:80/307211765061/307211765061/177130
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TRAVEL CHANNEL HD
+http://rv.flysat.live:80/307211765061/307211765061/177129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TRAVEL CHANNEL HD
+http://rv.flysat.live:80/307211765061/307211765061/177128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TLC
+http://rv.flysat.live:80/307211765061/307211765061/177127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SYFY
+http://rv.flysat.live:80/307211765061/307211765061/177126
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SYFY HD
+http://rv.flysat.live:80/307211765061/307211765061/177125
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV GALICIA
+http://rv.flysat.live:80/307211765061/307211765061/177124
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CNN
+http://rv.flysat.live:80/307211765061/307211765061/177123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SKY NEWS
+http://rv.flysat.live:80/307211765061/307211765061/177122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC RADICAL
+http://rv.flysat.live:80/307211765061/307211765061/177121
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SIC RADICAL HD
+http://rv.flysat.live:80/307211765061/307211765061/177120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVE 24H
+http://rv.flysat.live:80/307211765061/307211765061/177119
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CANAL Q
+http://rv.flysat.live:80/307211765061/307211765061/177118
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| CNBC
+http://rv.flysat.live:80/307211765061/307211765061/177117
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| EURONEWS
+http://rv.flysat.live:80/307211765061/307211765061/177116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV5 MONDE
+http://rv.flysat.live:80/307211765061/307211765061/177115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TOROS TV
+http://rv.flysat.live:80/307211765061/307211765061/177114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BBC WORLD NEWS
+http://rv.flysat.live:80/307211765061/307211765061/177113
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| FTV
+http://rv.flysat.live:80/307211765061/307211765061/177112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TVI FICCAO HD
+http://rv.flysat.live:80/307211765061/307211765061/177111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| DOG TV HD
+http://rv.flysat.live:80/307211765061/307211765061/177110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| ZAP VIVA HD
+http://rv.flysat.live:80/307211765061/307211765061/177109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 4 HD
+http://rv.flysat.live:80/307211765061/307211765061/177108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SPORT TV 5 HD
+http://rv.flysat.live:80/307211765061/307211765061/177107
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| CACA E PESCA HD
+http://rv.flysat.live:80/307211765061/307211765061/177106
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV RECORD HD
+http://rv.flysat.live:80/307211765061/307211765061/177105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV RECORD NEWS HD
+http://rv.flysat.live:80/307211765061/307211765061/177104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| GLOBO INTERNACIONAL
+http://rv.flysat.live:80/307211765061/307211765061/177103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV GLOBO
+http://rv.flysat.live:80/307211765061/307211765061/177102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV GLOBO NOW HD
+http://rv.flysat.live:80/307211765061/307211765061/177101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BOOMERANG HD
+http://rv.flysat.live:80/307211765061/307211765061/177100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| SAUDE HD
+http://rv.flysat.live:80/307211765061/307211765061/177099
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| SIC
+http://rv.flysat.live:80/307211765061/307211765061/177098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI
+http://rv.flysat.live:80/307211765061/307211765061/177097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI MOSAICO
+http://rv.flysat.live:80/307211765061/307211765061/177096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV RECORD NEWS
+http://rv.flysat.live:80/307211765061/307211765061/177095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TV GLOBO HD
+http://rv.flysat.live:80/307211765061/307211765061/177094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| BOOMERANG
+http://rv.flysat.live:80/307211765061/307211765061/177093
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT|HEVC| TVI MOSAICO HD
+http://rv.flysat.live:80/307211765061/307211765061/177092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TVI REALITY HD
+http://rv.flysat.live:80/307211765061/307211765061/177091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Sd1epCU.png" group-title="Portugal 1",|PT| TV GLOBO NOW
+http://rv.flysat.live:80/307211765061/307211765061/177090
