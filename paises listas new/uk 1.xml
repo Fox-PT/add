@@ -1,6 +1,6 @@
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/59MPLf2.png" group-title="|--- UK ---|
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/59MPLf2.png" group-title="Portugal 1",|--- UK ---|
 http://rv.flysat.live:80/307211765061/307211765061/167936
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/59MPLf2.png" group-title="|UK| COVID-19 INFORMATION
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/59MPLf2.png" group-title="Portugal 1",|UK| COVID-19 INFORMATION
 http://rv.flysat.live:80/307211765061/307211765061/167935
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/59MPLf2.png" group-title="Portugal 1",BBC ONE
 http://rv.flysat.live:80/307211765061/307211765061/167934
