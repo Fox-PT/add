@@ -78,6 +78,23 @@
 
 <channel>
 
+<name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]Italia TV[/COLOR][/B]</name>
+
+<thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/italy.gif</thumbnail>
+
+<fanart>https://i.imgur.com/vPuFOBK.jpg</fanart>
+
+<externallink>https://raw.githubusercontent.com/Fox-PT/add/main/paises%20listas%20new/italia%201.xml</externallink>
+
+<info>[B][COLOR blue]V[/COLOR][/B][B][COLOR yellow]i[/COLOR][/B][B][COLOR blue]l[/COLOR][/B][B][COLOR yellow]h[/COLOR][/B][B][COLOR blue]a[/COLOR][/B][B][COLOR yellow]o[/COLOR][/B]</info>
+
+</channel>
+
+
+
+
+<channel>
+
 <name>[COLORspringgreen]•[/COLOR]  [B][COLOR yellow]United Kingdom TV[/COLOR][/B]</name>
 
 <thumbnail>special://home/addons/plugin.video.Vilhao.Matrix/images/uk.gif</thumbnail>
